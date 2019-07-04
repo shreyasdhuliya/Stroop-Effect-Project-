@@ -14,7 +14,8 @@ Stroop effect is the delay in the response time for a task.
 
 
 ### Data Collection
-**Paired Samples**  both the test was done by the same candidate, they are paired samples.
+**Paired Samples**  -  both the test was done by the each candidate, which makes each sample a paired sample.
+
 The data was collected with participation of 24 candidates. Every candidate was asked to read words both set of words, congruent list and inconguent list. Time was recorded both the times.
 
 ### Hypothesis to test
