@@ -4,6 +4,7 @@
 ### Introduction
 
 Stroop effect is the delay in the response time for a task.
+
 **Congruent test** - Words are in harmony with the colors it suggests, so this test is called the congruent test.
 <img src="resources/stroop1.jpg">
 
