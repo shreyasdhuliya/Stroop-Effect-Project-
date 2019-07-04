@@ -5,7 +5,8 @@
 
 Stroop effect is the delay in the response time for a task.
 **Congruent test** - Words are in harmony with the colors it suggests, so this test is called the congruent test.
-<img src="resources/stroop1">
+<img src="resources/stroop1.png">
+
 **Incongruent test** - Words are not in harmony with the name of the color which causes the delay in nresponse.
 <img src="resources/stroop.gif">
 
