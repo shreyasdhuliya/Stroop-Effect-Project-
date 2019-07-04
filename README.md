@@ -13,7 +13,7 @@ Stroop effect is the delay in the response time for a task.
 <img src="resources/stroop.gif">
 
 ### Files
-`Stroop_Effect.ipynb` - Jupyter notebook containing the process. CLick on this file to view.
+`Stroop_Effect.ipynb` - Jupyter notebook containing the process. [Click here to view](https://github.com/shreyasdhuliya/Stroop-Effect-Project-Udacity/blob/master/Stroop_Effect.ipynb).
 
 ### Data Collection
 `stroopdata.csv`
