@@ -1,6 +1,7 @@
 # Machine Learning Foundation Project
 ## Hypothesis testing on paired samples
 
+
 ### Introduction
 
 Stroop effect is the delay in the response time for a task.
@@ -11,7 +12,8 @@ Stroop effect is the delay in the response time for a task.
 **Incongruent test** - Words are not in harmony with the name of the color which causes the delay in nresponse.
 <img src="resources/stroop.gif">
 
-
+### Files
+`Stroop_Effect.ipynb` - Jupyter notebook containing the process. CLick on this file to view.
 
 ### Data Collection
 `stroopdata.csv`
